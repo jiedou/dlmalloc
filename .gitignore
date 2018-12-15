@@ -12,4 +12,3 @@ obj/
 *.opensdf
 config
 .vs/
-build/
